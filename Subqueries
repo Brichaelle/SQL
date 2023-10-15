@@ -1,0 +1,4 @@
+Here, subqueires were perfomed on previously joined tables to find averages
+
+SELECT AVG(total_amount_paid) AS "Average"
+FROM (SELECT
